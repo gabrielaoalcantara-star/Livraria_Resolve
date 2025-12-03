@@ -1,0 +1,8 @@
+Parte Interessada,Nome,E-mail,Necessidades (What),Motivações (Why),Poder (Org),Influência (Proj),Poder (PLU),Legitimidade,Urgência,Interesse,Engajamento
+Proprietário,Arnaldo Américo,arnaldo@livrariaresolve.com.br,Vender livros raros pela internet; Modernizar a empresa,Empresa atrasada; Perdendo clientes; Sobrevivência do negócio,ALTO,ALTO,ALTO,ALTO,ALTO,ALTO,APÓIA
+Diretor,Armando Américo,armando@livrariaresolve.com.br,Relatórios gerenciais; CRM; Informatização completa,Eficiência; Gestão baseada em dados; Preparação para sucessão,ALTO,ALTO,ALTO,ALTO,ALTO,ALTO,LIDERA
+Gerente Geral,Bruna Berílio,bruna@livrariaresolve.com.br,Controle de entregas; Promoções de estoque parado; Integração ERP,Controle operacional; Receio de mudança brusca; Eficiência logística,ALTO,ALTO,ALTO,ALTO,MÉDIO,ALTO,RESISTENTE
+Vendedor,Felipe Franciscano,felipe@livrariaresolve.com.br,Sistema unificado de pedidos; Evitar duplicidade; Suporte à venda,Reduzir erros; Agilidade no atendimento; Menos retrabalho,BAIXO,MÉDIO,BAIXO,ALTO,ALTO,ALTO,APÓIA
+Vendedora,Gabriela Gambra,gabriela@livrariaresolve.com.br,Status de clientes (inadimplentes); Gestão de pagamentos,Evitar calotes; Menos reclamações; Organização pessoal,BAIXO,MÉDIO,BAIXO,ALTO,ALTO,ALTO,APÓIA
+Gerente de TI,Carlos Castelo,carlos@livrariaresolve.com.br,Sistema Web; Linux; MySQL; Nuvem; Sem instalação local,Facilidade de manutenção; Custos reduzidos; Integração técnica,MÉDIO,ALTO,MÉDIO,ALTO,MÉDIO,ALTO,APÓIA
+Clientes,Colecionadores,colecionadores@livrariaresolve.com.br,Comprar online; Pagamentos facilitados (Cartão/Pix),Comodidade; Rapidez na aquisição; Facilidade de pagamento,BAIXO,BAIXO,BAIXO,ALTO,MÉDIO,MÉDIO,DESCONHECE
