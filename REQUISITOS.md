@@ -1,0 +1,11 @@
+# Desejos das Partes Interessadas e Classificação MoSCoW
+
+Abaixo estão listados 5 requisitos identificados a partir da investigação realizada na **Livraria Resolve**, classificados de acordo com a prioridade de implementação (MoSCoW).
+
+| ID | Desejo / Requisito | Parte Interessada | Classificação (MoSCoW) | Justificativa |
+|:---|:---|:---|:---|:---|
+| **REQ01** | **Centralização de Pedidos e Requisições**<br>O sistema deve unificar o controle de pedidos dos clientes e requisições aos fornecedores em uma única base de dados. | Felipe Franciscano (Vendedor) | **MUST HAVE** | Atualmente, há duplicidade de informações e perda de controle sobre qual livro pertence a qual cliente, gerando atrasos e erros operacionais críticos. |
+| **REQ02** | **Alerta de Histórico de Clientes**<br>O sistema deve exibir alertas visuais sobre o status do cliente (ex: "expulso", "inadimplente", "VIP") no momento do pedido. | Gabriela Gambra (Vendedora) | **MUST HAVE** | Essencial para evitar prejuízos financeiros (calotes) e melhorar o atendimento aos clientes frequentes. Sem isso, a empresa continua perdendo dinheiro. |
+| **REQ03** | **Interface Web Responsiva**<br>O sistema deve ser acessível via navegador (Web) e funcionar corretamente em dispositivos móveis (celulares), sem necessidade de instalação local. | Carlos Castelo (Gerente de TI) | **MUST HAVE** | Restrição técnica imposta pela TI. A infraestrutura local é limitada e os usuários (inclusive os donos) utilizam muito o celular. |
+| **REQ04** | **Relatórios Gerenciais de Vendas e Estoque**<br>Geração de relatórios de vendas por período, gastos por fornecedor e identificação de "estoque morto". | Armando Américo (Diretor) | **SHOULD HAVE** | Importante para a tomada de decisão estratégica e crescimento da empresa, mas o sistema pode operar suas funções básicas de venda (MVP) sem isso num primeiro momento. |
+| **REQ05** | **Mala Direta de Promoções**<br>Funcionalidade para enviar ofertas por e-mail de livros parados no estoque baseada no perfil de interesse do cliente. | Bruna Berílio (Gerente Geral) | **COULD HAVE** | É um desejo interessante para gerar receita extra, mas não impede o funcionamento principal da livraria. Pode ser deixado para uma versão futura (V2). |
