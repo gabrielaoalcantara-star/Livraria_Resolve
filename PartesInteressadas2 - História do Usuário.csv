@@ -1,0 +1,8 @@
+Papel (WHO),Requisito (WHAT),MOTIVO (WHY)
+Vendedor,Cadastrar pedidos de clientes e requisições a fornecedores em um único sistema,Evitar a perda de informações sobre a quem pertence cada livro entregue.
+Vendedora,Visualizar alertas sobre o status financeiro do cliente (inadimplente/expulso),Impedir novas vendas para clientes caloteiros e reduzir prejuízos.
+Diretor,Gerar relatórios automáticos de vendas e despesas por fornecedor,Eliminar o retrabalho manual no Excel e agilizar o fechamento do mês.
+Gerente de TI,Acessar o sistema através de navegador web e dispositivos móveis,Permitir o uso sem instalação local e atender aos sócios que usam celular.
+Cliente,Pagar as compras utilizando Cartão de Crédito ou Pix,Agilizar a confirmação do pagamento e o envio do livro (o boleto demora).
+Gerente Geral,"Acompanhar o status logístico (pedido, recebido, pago, enviado) em uma tela",Substituir o controle manual em cadernos e organizar o fluxo de entregas.
+Diretor,Identificar clientes que pararam de comprar (inativos),Realizar ações de marketing para recuperar esses clientes.
